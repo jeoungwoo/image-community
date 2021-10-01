@@ -1,2 +1,0 @@
-# image-community
-image-community
